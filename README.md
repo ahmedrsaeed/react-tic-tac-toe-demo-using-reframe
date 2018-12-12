@@ -1,9 +1,6 @@
-# A Simple App
+# Tic Tac Toe 
 
-This tiny application is meant to provide a quick start of the basics of re-frame.  
-
-A detailed source code walk-through is provided in the docs:
-https://github.com/Day8/re-frame/blob/master/docs/CodeWalkthrough.md
+This tiny application is meant to recreate Tic Tac Toe from react demo using re-frame
 
 All the code is in one namespace: `/src/simple/core.cljs`.
 
@@ -11,7 +8,7 @@ All the code is in one namespace: `/src/simple/core.cljs`.
 
 Steps:
 
-1. Check out the re-frame repo
+1. Check out this repo
 2. Get a command line
 3. `cd` to the root of this sub project (where this README exists)
 4. run "`lein do clean, figwheel`"  to compile the app and start up figwheel hot-reloading, 
